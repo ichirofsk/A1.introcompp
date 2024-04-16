@@ -1,0 +1,4 @@
+Os arquivos de texto gerados pelos scripts presentes neste diretório foram posicionados no diretório Textos.A1;		
+Os arquivos palavras.html resultantes do p5 são gerados após rodar o comando: "./ex5.gerarpalavras.html.sh <n>", sendo n um número natural e o arquivos palavras.html sendo gerados neste mesmo diretório.
+
+

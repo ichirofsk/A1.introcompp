@@ -1,0 +1,2 @@
+Os arquivos.txt gerados pelos scripts presentes no diretório Soluções.A1 serão gerados neste diretório.
+

@@ -2,8 +2,7 @@
 
 for arquivo in ./*; do
     if [ -f "$arquivo" ] && head -n 1 "$arquivo" | grep -q "#!/bin/bash"; then
-        chmod u+x,g+x,o-rwx "$arquivo"
-        chmod o-x "$arquivo"
+        chmod 750 "$arquivo"
         echo "Permissões alteradas para o arquivo $arquivo"
     fi
 done
